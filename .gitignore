@@ -1,0 +1,7 @@
+build/*
+*.out
+*.exe
+*.so
+*.o
+*.a
+token*
